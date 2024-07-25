@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resonify
 
 Resonify is your one stop destination to learn everything in MUSIC!
@@ -18,7 +19,10 @@ Resonify is your one stop destination to learn everything in MUSIC!
 - Search videos
 - Single video page
 
-## Live Preview
 
 
 
+
+
+
+>>>>>>> origin/main
