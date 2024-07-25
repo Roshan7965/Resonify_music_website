@@ -2,16 +2,6 @@
 
 Resonify is your one stop destination to learn everything in MUSIC!
 
-You can check out [Resonify](https://resonify.netlify.app/) here
-
-## Run this project locally
-
-```
-$ git clone https://github.com/AshutoshM29/Resonify-React.git
-$ cd Resonify-React
-$ npm install
-$ npm start
-```
 
 ## Features
 
@@ -31,4 +21,4 @@ $ npm start
 ## Live Preview
 
 
-***This Video Library App is made with the help of [cleanUI](https://clean-ui.netlify.app/)***
+
